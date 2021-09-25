@@ -1,0 +1,7 @@
+C:\Users\dilla\source\repos\25SEP_Challenge\25SEP_Challenge\bin\Debug\25SEP_Challenge.exe.config
+C:\Users\dilla\source\repos\25SEP_Challenge\25SEP_Challenge\bin\Debug\25SEP_Challenge.exe
+C:\Users\dilla\source\repos\25SEP_Challenge\25SEP_Challenge\bin\Debug\25SEP_Challenge.pdb
+C:\Users\dilla\source\repos\25SEP_Challenge\25SEP_Challenge\obj\Debug\25SEP_Challenge.csproj.AssemblyReference.cache
+C:\Users\dilla\source\repos\25SEP_Challenge\25SEP_Challenge\obj\Debug\25SEP_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\dilla\source\repos\25SEP_Challenge\25SEP_Challenge\obj\Debug\25SEP_Challenge.exe
+C:\Users\dilla\source\repos\25SEP_Challenge\25SEP_Challenge\obj\Debug\25SEP_Challenge.pdb
